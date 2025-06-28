@@ -1,0 +1,9 @@
+.homepage_body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    flex-grow: 1;
+    gap: 50px;
+    background-color: #e8e8e8;
+}
